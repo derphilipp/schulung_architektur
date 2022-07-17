@@ -21,6 +21,7 @@ Philipp Weißmann
 
 # Domain Storytelling 1
 
+- Grundlagen: https://domainstorytelling.org/
 - Idee
   - Beteiligte Personen, System und Objekte aufschreiben
   - Beispielhaften Ablauf (aller) Transaktionen "durchspielen"
@@ -54,6 +55,7 @@ Philipp Weißmann
 
 # C4 Teil 1
 
+- Grundlagen: https://c4model.com/
 - Idee
   - Auf 4 Ebenen das System und dessen ¨Ökosystem modellieren
   - Immer näher an den Code heranschreiben
