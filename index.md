@@ -10,6 +10,8 @@ Philipp Weißmann
 
 ## [mail@philipp-weissmann.de](mailto:mail@philipp-weissmann.de)
 
+---
+
 # Agenda
 
 - Motivation
